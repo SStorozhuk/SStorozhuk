@@ -2,8 +2,8 @@
 **System Analyst • IT Architect • BI & Integrations**
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=<SStorozhuk>&show_icons=true&theme=algolia&hide_border=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<SStorozhuk>&layout=compact&theme=algolia&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SStorozhuk&show_icons=true&theme=algolia&hide_border=true&cache_seconds=21600" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SStorozhuk&layout=compact&theme=algolia&hide_border=true&cache_seconds=21600" />
 </p>
 
 ---
